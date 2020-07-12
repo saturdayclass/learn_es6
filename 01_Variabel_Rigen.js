@@ -4,7 +4,7 @@ a = 'b';
 console.log(a)
 
 let b = 'b';
-b = 'c';
+bg = 'c';
 
 console.log(b)
 
